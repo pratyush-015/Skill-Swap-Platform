@@ -1,3 +1,20 @@
+Our Solution for Odoo Hackathon 2025 (Team 1086)
+
+Problem Statement:
+Skill Swap Platform 
+Overview: Develop a Skill Swap Platform — a mini application that enables users to list their skills and 
+request others in return
+
+
+Team Members:
+1. Pratyush Deoghare (GitHub: pratyush-015)
+2. Tanbir Aproose Laskar (GitHub: judgeofmyown)
+
+
+YouTube Link: 
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
